@@ -21,4 +21,10 @@ It is not feasible for the user to directly interact with DB, hence DBMS enables
 Que-What are file based systems?
 Ans- Data is stored in file formats instead of databases.
 However they have certain drawbacks.
-
+They are-   1. Same data is stored at mutliple locations.- Data Redundancy
+            2. Lack of security access
+            3. Data Inconsistency
+            4. There is no query mechanism
+            5. Proper backup is not there.
+            
+        
