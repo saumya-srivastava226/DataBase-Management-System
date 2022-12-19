@@ -1,0 +1,24 @@
+Que- What is data?
+Ans- Random collection of facts and figures is data.Data can he in huge amounts. Anything that can be recorded is data. For eg- our voice can be data for some AI system.
+
+Que- What is Information?
+Ans- The data that can be processed into meaningful facts is called info. For eg: New Delhi ( can be city, can be capital, can be address) is Data but New Delhi is the capital 
+of India is information.
+ 2000 is data but 2000 is my birth year is information
+ 
+Que- What is database?
+Ans- Database is a place to store structured data.
+Eg- Attendence register of school
+    Passbook
+    Dictionary
+    
+  In terms of computer science , database is place where we electronically store data.
+ 
+Que- What is DBMS?
+Ans- DBMS is a graphical user interface which helps in retrieval,storage and manipulation of data. DBMS is software that interacts with Database. Data is stored in 0s and 1s.
+It is not feasible for the user to directly interact with DB, hence DBMS enables that.
+
+Que-What are file based systems?
+Ans- Data is stored in file formats instead of databases.
+However they have certain drawbacks.
+
