@@ -1,0 +1,23 @@
+Que- Why do we use dbms?
+Ans- Because it provides us data integrity. The data can be stored at one location and shared to diffrent clients based on access privilage.
+     Data Sharing- Same information is visible to everyone.
+     Data Consistency- If one seat is booked, it will get reflect back to another user trying to book the ticket from same system
+     
+  Drawbacks of Databases: 
+  1. Costly
+  2. Comlexity
+  3. Trained people are required.
+  
+Que- Diffrent of client-server architecture
+Ans - There are three types of achictectures:
+      Tier 1: Client and server recides on the same machine. 
+      Tier 2: Client recides on one machine and Server & Database on another machine.
+      Tier 3: Client, Server and Database recides on three diffrent machines. A request has to be made to server to access database.
+
+
+Another thing that I learned Data Models:
+Can any type of data be stored in any type of database? No
+We have to process the data and decide what kind of database be used for specific data. This is doen with the help of data models.
+There are three layers of data models . Conceptual,Representation, and Physical
+
+Conceptual Data Model: The most high level data model. It is very abstract and far away from real database. It answers all the WHAT questions.
