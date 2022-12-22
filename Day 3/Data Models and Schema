@@ -1,0 +1,30 @@
+Learnt about three types of data models. These three are built on top of each other.
+First Conceptual Data Model is built , then Representation and then Physical Data Model.
+
+Conceptual Data Models- 
+It talks about WHAT aspect of databases.
+WHAT---
+a. is that you are going to build
+b. what kind of data is being used
+c. certain contraints
+Example- ER-Diagrams
+
+Representational Data Models: It talks about HOW aspect of the data model.
+It is a logical structure of database.
+How are we going to organize data? What will be the size and type of data?
+This step helps us in designing database before actually implementing it.
+Example: Relational Data Model
+
+
+Physical Data Models:This is where we actually store data.
+Talks about which database is going to be used?
+Which version of DBMS is used?Type of database being used?
+
+
+Que- Data Modelling helps in achieving Abstraction?
+Ans-True 
+
+Que- Which of the following model tells us how data will be on the disk?
+Ans- Physical data model
+
+We have covered a few thing about Database Schema as well. Schema is actually the logical representation of data inside database. It is the structural view of data inside database.
