@@ -1,0 +1,20 @@
+Schema is not the same as database.
+Database is what actually stores data whereas schema is just the structural view of that data.
+A SCHEMA is the blueprint or an architecture of exactly how our data will look. 
+
+Que- Describe the architecture of schema?
+Ans- It has three layers : a. Physical layer
+                           b. Conceptual layer
+                           c. External layer
+    Physical layers : talks about the physical storage of data.Has access paths of all data. Eg- Physical Data Model
+    Conceptual layer: talks about the structure of data.It hides the physical layer. Describes the entities,the data types, the relationships between enetities.
+    External layer: provides access control. Diffrenet info is viewed to diff users from same dataset.We can have mutliple external layers.
+    
+    
+Que- What is Data Independence?
+Ans-It is the property of modifying one level of schema without affeting other levels.
+
+We have two types of independence- Physical and Logical/Conceptual Independence
+
+Que-ER-Model
+Ans-ER- model is a blueprint of a database. It shows the relation bewteen entities.
