@@ -1,0 +1,20 @@
+Que-What is an ER-Diagram?
+It is a pictorial representation of diffrent enetities and their relationships among other entities. It consists of entity, attributes and relationships.
+In an ER-Diagram , entity is represented by Rectangles, attributes are represented by Ellipse and relationships are represented by Diamond.
+
+Entity is a real world object.
+There are two types of entities: Strong Entity and Weak Entity
+Strong Entity: An entity that can be uniquely identified using Primary Key.
+Weak Entity: An entity that depends on other entities for its difinition are called weak entity.Eg (Loan Entity for a Customer)
+
+
+
+Attributes are the features that each entity can have. There are four kinds of attributes :
+1. Key: Used to uniquely identify an entity. Primary key, Stu_Id for student entity
+2. Composite: An attribte that is made up of sub-attributes. Example- Addesss is made up of House Number, city
+3.Mutlivalued: That can have multiple values. A student can have multiple emails
+4. Derived: derived from other attributes
+
+
+Relationships:
+These are the verbs that connect two or more entities.
